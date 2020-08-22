@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "Simple library to support live coding"
+name = "live"
+optional = false
+python-versions = "*"
+version = "0.0.3"
+
+[metadata]
+content-hash = "b665d492ba305059be41159407e652fba6b98c40819ea8c1c546c3f187a71960"
+python-versions = "^3.8"
+
+[metadata.files]
+live = [
+    {file = "live-0.0.3.tar.gz", hash = "sha256:aa033899ba812dd49303df269ad9175a7a679a6dcaaf34570ad321d41a68178c"},
+]
